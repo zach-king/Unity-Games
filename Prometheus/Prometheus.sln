@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prometheus.CSharp.Plugins", "Prometheus.CSharp.Plugins.csproj", "{3C3C7C74-600A-2413-ED2D-E61F0BA45AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prometheus.CSharp", "Prometheus.CSharp.csproj", "{4EEE1CA5-8997-B574-DF13-9F36D0047D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prometheus.CSharp.Editor", "Prometheus.CSharp.Editor.csproj", "{B01B8E3F-E9DB-0D0D-0512-F8DEA3639EF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3C7C74-600A-2413-ED2D-E61F0BA45AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3C7C74-600A-2413-ED2D-E61F0BA45AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3C7C74-600A-2413-ED2D-E61F0BA45AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3C7C74-600A-2413-ED2D-E61F0BA45AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EEE1CA5-8997-B574-DF13-9F36D0047D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEE1CA5-8997-B574-DF13-9F36D0047D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEE1CA5-8997-B574-DF13-9F36D0047D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEE1CA5-8997-B574-DF13-9F36D0047D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01B8E3F-E9DB-0D0D-0512-F8DEA3639EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01B8E3F-E9DB-0D0D-0512-F8DEA3639EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01B8E3F-E9DB-0D0D-0512-F8DEA3639EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01B8E3F-E9DB-0D0D-0512-F8DEA3639EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

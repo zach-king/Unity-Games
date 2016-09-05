@@ -54,6 +54,7 @@
      <Compile Include="Assets\Imported\Ultimate Game Tools\RopeEditor\Sample Scenes\Sample Scripts\LogicSimpleRopes.cs" />
      <Compile Include="Assets\Imported\Ultimate Game Tools\RopeEditor\Scripts\UltimateRope.cs" />
      <Compile Include="Assets\Imported\Ultimate Game Tools\RopeEditor\Scripts\UltimateRopeLink.cs" />
+     <Compile Include="Assets\Scripts\EndZone.cs" />
      <Compile Include="Assets\Scripts\IgnoreCollision.cs" />
      <Compile Include="Assets\Scripts\RopeBreak.cs" />
      <Compile Include="Assets\Scripts\ThirdPersonControllerEdited.cs" />
